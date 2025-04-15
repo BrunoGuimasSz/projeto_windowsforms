@@ -13,7 +13,6 @@ namespace Projeto
             Form2 childForm = new Form2();
             childForm.MdiParent = this;
             childForm.Show();
-
         }
 
 

@@ -34,3 +34,4 @@ C:\Users\194822024\projeto_windowsforms\Projeto\obj\Debug\net8.0-windows\refint\
 C:\Users\194822024\projeto_windowsforms\Projeto\obj\Debug\net8.0-windows\Tarefas.pdb
 C:\Users\194822024\projeto_windowsforms\Projeto\obj\Debug\net8.0-windows\Tarefas.genruntimeconfig.cache
 C:\Users\194822024\projeto_windowsforms\Projeto\obj\Debug\net8.0-windows\ref\Tarefas.dll
+C:\Users\194822024\projeto_windowsforms\Projeto\obj\Debug\net8.0-windows\Tarefas.Properties.Resources.resources
