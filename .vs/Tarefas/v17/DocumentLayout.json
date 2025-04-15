@@ -3,20 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\194822024\\projeto_windowsforms\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C6A2DF45-01E5-4CC1-9EF3-B2D06950154F}|Projeto\\Tarefas.csproj|c:\\users\\194822024\\projeto_windowsforms\\projeto\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C6A2DF45-01E5-4CC1-9EF3-B2D06950154F}|Projeto\\Tarefas.csproj|solutionrelative:projeto\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C6A2DF45-01E5-4CC1-9EF3-B2D06950154F}|Projeto\\Tarefas.csproj|c:\\users\\194822024\\projeto_windowsforms\\projeto\\inicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C6A2DF45-01E5-4CC1-9EF3-B2D06950154F}|Projeto\\Tarefas.csproj|solutionrelative:projeto\\inicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C6A2DF45-01E5-4CC1-9EF3-B2D06950154F}|Projeto\\Tarefas.csproj|c:\\users\\194822024\\projeto_windowsforms\\projeto\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{C6A2DF45-01E5-4CC1-9EF3-B2D06950154F}|Projeto\\Tarefas.csproj|solutionrelative:projeto\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{C6A2DF45-01E5-4CC1-9EF3-B2D06950154F}|Projeto\\Tarefas.csproj|c:\\users\\194822024\\projeto_windowsforms\\projeto\\sobre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C6A2DF45-01E5-4CC1-9EF3-B2D06950154F}|Projeto\\Tarefas.csproj|solutionrelative:projeto\\sobre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C6A2DF45-01E5-4CC1-9EF3-B2D06950154F}|Projeto\\Tarefas.csproj|c:\\users\\194822024\\projeto_windowsforms\\projeto\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C6A2DF45-01E5-4CC1-9EF3-B2D06950154F}|Projeto\\Tarefas.csproj|solutionrelative:projeto\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C6A2DF45-01E5-4CC1-9EF3-B2D06950154F}|Projeto\\Tarefas.csproj|c:\\users\\194822024\\projeto_windowsforms\\projeto\\inicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6A2DF45-01E5-4CC1-9EF3-B2D06950154F}|Projeto\\Tarefas.csproj|solutionrelative:projeto\\inicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C6A2DF45-01E5-4CC1-9EF3-B2D06950154F}|Projeto\\Tarefas.csproj|c:\\users\\194822024\\projeto_windowsforms\\projeto\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{C6A2DF45-01E5-4CC1-9EF3-B2D06950154F}|Projeto\\Tarefas.csproj|solutionrelative:projeto\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{C6A2DF45-01E5-4CC1-9EF3-B2D06950154F}|Projeto\\Tarefas.csproj|c:\\users\\194822024\\projeto_windowsforms\\projeto\\sobre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6A2DF45-01E5-4CC1-9EF3-B2D06950154F}|Projeto\\Tarefas.csproj|solutionrelative:projeto\\sobre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6A2DF45-01E5-4CC1-9EF3-B2D06950154F}|Projeto\\Tarefas.csproj|c:\\users\\194822024\\projeto_windowsforms\\projeto\\inicio.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6A2DF45-01E5-4CC1-9EF3-B2D06950154F}|Projeto\\Tarefas.csproj|solutionrelative:projeto\\inicio.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6A2DF45-01E5-4CC1-9EF3-B2D06950154F}|Projeto\\Tarefas.csproj|c:\\users\\194822024\\projeto_windowsforms\\projeto\\properties\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{C6A2DF45-01E5-4CC1-9EF3-B2D06950154F}|Projeto\\Tarefas.csproj|solutionrelative:projeto\\properties\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,57 +34,84 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\194822024\\projeto_windowsforms\\Projeto\\Form1.cs",
-              "RelativeDocumentMoniker": "Projeto\\Form1.cs",
-              "ToolTip": "C:\\Users\\194822024\\projeto_windowsforms\\Projeto\\Form1.cs",
-              "RelativeToolTip": "Projeto\\Form1.cs",
-              "ViewState": "AQIAAAQAAAAAAAAAAAAzwAsAAAAJAAAA",
+              "DocumentIndex": 2,
+              "Title": "Inicio.cs",
+              "DocumentMoniker": "C:\\Users\\194822024\\projeto_windowsforms\\Projeto\\Inicio.cs",
+              "RelativeDocumentMoniker": "Projeto\\Inicio.cs",
+              "ToolTip": "C:\\Users\\194822024\\projeto_windowsforms\\Projeto\\Inicio.cs",
+              "RelativeToolTip": "Projeto\\Inicio.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-15T11:05:34.625Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Form2.cs",
-              "DocumentMoniker": "C:\\Users\\194822024\\projeto_windowsforms\\Projeto\\Form2.cs",
-              "RelativeDocumentMoniker": "Projeto\\Form2.cs",
-              "ToolTip": "C:\\Users\\194822024\\projeto_windowsforms\\Projeto\\Form2.cs",
-              "RelativeToolTip": "Projeto\\Form2.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAvwBoAAAAZAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-15T11:00:07.165Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Form2.cs [Projeto]",
-              "DocumentMoniker": "C:\\Users\\194822024\\projeto_windowsforms\\Projeto\\Form2.cs",
-              "RelativeDocumentMoniker": "Projeto\\Form2.cs",
-              "ToolTip": "C:\\Users\\194822024\\projeto_windowsforms\\Projeto\\Form2.cs [Projeto]",
-              "RelativeToolTip": "Projeto\\Form2.cs [Projeto]",
+              "Title": "Sobre.cs",
+              "DocumentMoniker": "C:\\Users\\194822024\\projeto_windowsforms\\Projeto\\Sobre.cs",
+              "RelativeDocumentMoniker": "Projeto\\Sobre.cs",
+              "ToolTip": "C:\\Users\\194822024\\projeto_windowsforms\\Projeto\\Sobre.cs",
+              "RelativeToolTip": "Projeto\\Sobre.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAcwBoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T12:34:13.713Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Inicio.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\194822024\\projeto_windowsforms\\Projeto\\Inicio.cs",
+              "RelativeDocumentMoniker": "Projeto\\Inicio.cs",
+              "ToolTip": "C:\\Users\\194822024\\projeto_windowsforms\\Projeto\\Inicio.cs [Projeto]",
+              "RelativeToolTip": "Projeto\\Inicio.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T10:51:28.85Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Sobre.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\194822024\\projeto_windowsforms\\Projeto\\Sobre.cs",
+              "RelativeDocumentMoniker": "Projeto\\Sobre.cs",
+              "ToolTip": "C:\\Users\\194822024\\projeto_windowsforms\\Projeto\\Sobre.cs [Projeto]",
+              "RelativeToolTip": "Projeto\\Sobre.cs [Projeto]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-15T10:58:12.748Z",
               "EditorCaption": " [Projeto]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Form1.cs [Projeto]",
-              "DocumentMoniker": "C:\\Users\\194822024\\projeto_windowsforms\\Projeto\\Form1.cs",
-              "RelativeDocumentMoniker": "Projeto\\Form1.cs",
-              "ToolTip": "C:\\Users\\194822024\\projeto_windowsforms\\Projeto\\Form1.cs [Projeto]",
-              "RelativeToolTip": "Projeto\\Form1.cs [Projeto]",
+              "DocumentIndex": 4,
+              "Title": "Inicio.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\194822024\\projeto_windowsforms\\Projeto\\Inicio.Designer.cs",
+              "RelativeDocumentMoniker": "Projeto\\Inicio.Designer.cs",
+              "ToolTip": "C:\\Users\\194822024\\projeto_windowsforms\\Projeto\\Inicio.Designer.cs",
+              "RelativeToolTip": "Projeto\\Inicio.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-15T10:51:28.85Z",
-              "EditorCaption": " [Projeto]"
+              "WhenOpened": "2025-04-15T12:10:36.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Resources.resx",
+              "DocumentMoniker": "C:\\Users\\194822024\\projeto_windowsforms\\Projeto\\Properties\\Resources.resx",
+              "RelativeDocumentMoniker": "Projeto\\Properties\\Resources.resx",
+              "ToolTip": "C:\\Users\\194822024\\projeto_windowsforms\\Projeto\\Properties\\Resources.resx",
+              "RelativeToolTip": "Projeto\\Properties\\Resources.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-04-15T11:50:47.87Z",
+              "EditorCaption": ""
             }
           ]
         }

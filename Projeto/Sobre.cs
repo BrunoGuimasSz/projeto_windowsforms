@@ -10,21 +10,21 @@ using System.Windows.Forms;
 
 namespace Projeto
 {
-    public partial class Form2 : Form
+    public partial class Sobre : Form
     {
-        public Form2()
+        public Sobre()
         {
             InitializeComponent();
-        }
-
-        private void label2_Click(object sender, EventArgs e)
-        {
-
         }
 
         private void button1_Click(object sender, EventArgs e)
         {
             this.Close();
+        }
+
+        private void Form2_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }

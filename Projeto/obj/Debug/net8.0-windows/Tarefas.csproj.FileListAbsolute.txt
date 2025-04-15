@@ -21,8 +21,6 @@ C:\Users\194822024\projeto_windowsforms\Projeto\bin\Debug\net8.0-windows\Tarefas
 C:\Users\194822024\projeto_windowsforms\Projeto\bin\Debug\net8.0-windows\Tarefas.runtimeconfig.json
 C:\Users\194822024\projeto_windowsforms\Projeto\bin\Debug\net8.0-windows\Tarefas.dll
 C:\Users\194822024\projeto_windowsforms\Projeto\bin\Debug\net8.0-windows\Tarefas.pdb
-C:\Users\194822024\projeto_windowsforms\Projeto\obj\Debug\net8.0-windows\Projeto.Form1.resources
-C:\Users\194822024\projeto_windowsforms\Projeto\obj\Debug\net8.0-windows\Projeto.Form2.resources
 C:\Users\194822024\projeto_windowsforms\Projeto\obj\Debug\net8.0-windows\Tarefas.csproj.GenerateResource.cache
 C:\Users\194822024\projeto_windowsforms\Projeto\obj\Debug\net8.0-windows\Tarefas.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\194822024\projeto_windowsforms\Projeto\obj\Debug\net8.0-windows\Tarefas.AssemblyInfoInputs.cache
@@ -35,3 +33,5 @@ C:\Users\194822024\projeto_windowsforms\Projeto\obj\Debug\net8.0-windows\Tarefas
 C:\Users\194822024\projeto_windowsforms\Projeto\obj\Debug\net8.0-windows\Tarefas.genruntimeconfig.cache
 C:\Users\194822024\projeto_windowsforms\Projeto\obj\Debug\net8.0-windows\ref\Tarefas.dll
 C:\Users\194822024\projeto_windowsforms\Projeto\obj\Debug\net8.0-windows\Tarefas.Properties.Resources.resources
+C:\Users\194822024\projeto_windowsforms\Projeto\obj\Debug\net8.0-windows\Projeto.Inicio.resources
+C:\Users\194822024\projeto_windowsforms\Projeto\obj\Debug\net8.0-windows\Projeto.Sobre.resources

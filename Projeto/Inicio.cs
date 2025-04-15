@@ -1,8 +1,8 @@
 namespace Projeto
 {
-    public partial class Form1 : Form
+    public partial class Inicio : Form
     {
-        public Form1()
+        public Inicio()
         {
             InitializeComponent();
             this.IsMdiContainer = true;
@@ -10,11 +10,14 @@ namespace Projeto
 
         private void sobreToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            Form2 childForm = new Form2();
+            Sobre childForm = new Sobre();
             childForm.MdiParent = this;
             childForm.Show();
         }
 
-
+        private void inícioToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Form Sobre = new Form();   
+        }
     }
 }
